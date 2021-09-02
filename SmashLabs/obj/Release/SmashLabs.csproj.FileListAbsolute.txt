@@ -1,0 +1,10 @@
+E:\Projects\Smash\Smash\SmashLabs\obj\Release\SmashLabs.csproj.AssemblyReference.cache
+E:\Projects\Smash\Smash\SmashLabs\obj\Release\SmashLabs.csproj.CoreCompileInputs.cache
+E:\Projects\Smash\Smash\SmashLabs\bin\Release\SmashLabs.dll
+E:\Projects\Smash\Smash\SmashLabs\bin\Release\SmashLabs.pdb
+E:\Projects\Smash\Smash\SmashLabs\obj\Release\SmashLabs.dll
+E:\Projects\Smash\Smash\SmashLabs\obj\Release\SmashLabs.pdb
+E:\Projects\Smash\Smash\SmashLabs\bin\Release\NUTEXTB.dll
+E:\Projects\Smash\Smash\SmashLabs\bin\Release\SFGraphics.dll
+E:\Projects\Smash\Smash\SmashLabs\bin\Release\SFGraphics.Utils.dll
+E:\Projects\Smash\Smash\SmashLabs\obj\Release\SmashLabs.csproj.CopyComplete
